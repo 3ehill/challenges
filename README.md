@@ -10,3 +10,7 @@ Prompt by Codepen: <br>
 # Gallery
 Gallery.html is my work on the JavaScript30 course for the flex panel gallery.<br>
 View the working site here: https://codepen.io/3ehill/full/rbdgwQ
+
+
+#TypeAhead 
+TypeAhead.js & CitySearch.html are a part of the JavaScript30 course. I used JavaScript to show results that had a matching result to the input.
